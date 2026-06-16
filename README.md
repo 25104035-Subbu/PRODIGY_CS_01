@@ -39,9 +39,11 @@ Example
 Input
 
 Enter message: Subbu Lakshmi
+
 Enter shift value: 3
 
 Output
 
 Encrypted text: Vxeex Odnvkpl
+
 Decrypted text: Hello World
