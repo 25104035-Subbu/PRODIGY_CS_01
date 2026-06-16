@@ -38,10 +38,10 @@ Example
 
 Input
 
-Enter message: Hello World
+Enter message: Subbu Lakshmi
 Enter shift value: 3
 
 Output
 
-Encrypted text: Khoor Zruog
+Encrypted text: Vxeex Odnvkpl
 Decrypted text: Hello World
